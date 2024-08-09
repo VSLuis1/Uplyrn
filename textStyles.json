@@ -1,0 +1,335 @@
+{
+  "fileName": "Uplyrn V1",
+  "textStyles": [
+    {
+      "name": "",
+      "fontFamily": "Be Vietnam Pro",
+      "fontWeight": "Bold",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Display 1",
+      "fontFamily": "Poppins",
+      "fontWeight": "Bold",
+      "fontSize": 144,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Display 2",
+      "fontFamily": "Poppins",
+      "fontWeight": "Bold",
+      "fontSize": 96,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Heading 1",
+      "fontFamily": "Sora",
+      "fontWeight": "Bold",
+      "fontSize": 64,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Heading 2",
+      "fontFamily": "Sora",
+      "fontWeight": "Bold",
+      "fontSize": 56,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Heading 3",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 48,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Heading 4",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 40,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Headings/Heading 5",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 32,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Body Large",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 24,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Body Medium",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Body Small",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 18,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Content Accent",
+      "fontFamily": "Poppins",
+      "fontWeight": "Medium",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Content Regular",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Caption Bold",
+      "fontFamily": "Poppins",
+      "fontWeight": "Bold",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Caption Accent",
+      "fontFamily": "Poppins",
+      "fontWeight": "SemiBold",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Caption Regular",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Desktop/Body/Body XL",
+      "fontFamily": "Poppins",
+      "fontWeight": "SemiBold",
+      "fontSize": 24,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings/Heading 1",
+      "fontFamily": "Sora",
+      "fontWeight": "Bold",
+      "fontSize": 44,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings/Heading 2",
+      "fontFamily": "Sora",
+      "fontWeight": "Bold",
+      "fontSize": 40,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings/Heading 3",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 32,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings/Heading 4",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 28,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Headings/Heading 5",
+      "fontFamily": "Sora",
+      "fontWeight": "SemiBold",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Caption Regular",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 12,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Footnote Accent",
+      "fontFamily": "Poppins",
+      "fontWeight": "SemiBold",
+      "fontSize": 10,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Footnote Regular",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 10,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Body Large",
+      "fontFamily": "Poppins",
+      "fontWeight": "SemiBold",
+      "fontSize": 20,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Body medium",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 18,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Body Small",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 16,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    },
+    {
+      "name": "Uplyrn_v1 - 2/Mobile/Body/Content Standard",
+      "fontFamily": "Poppins",
+      "fontWeight": "Regular",
+      "fontSize": 14,
+      "letterSpacing": {
+        "unit": "PERCENT",
+        "value": 0
+      },
+      "textCase": "ORIGINAL"
+    }
+  ]
+}
